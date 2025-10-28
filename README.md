@@ -98,7 +98,7 @@ Cost_Intelligence_Platform/
 ├── app.py                   # Main Streamlit application
 ├── requirements.txt
 ├── README.md
-├── Innovation_Brief.pdf     # 1-page summary (export from Word/PowerPoint)
+├── Innovation_Brief.pdf     # 1-page summary 
 └── data/
     ├── cost_breakdown.csv
     ├── routes_distance.csv
